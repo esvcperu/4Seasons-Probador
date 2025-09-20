@@ -1,0 +1,5 @@
+{
+  "name": "Probador de Ropa - 4Seasons (IA)",
+  "description": "Una aplicación de IA que permite a los usuarios probarse virtualmente prendas de ropa y accesorios. Sube una foto, elige tus prendas y la IA generará imágenes fotorrealistas en diferentes escenarios.",
+  "requestFramePermissions": []
+}
